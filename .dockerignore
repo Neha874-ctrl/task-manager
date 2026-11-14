@@ -1,0 +1,14 @@
+node_modules
+dist
+coverage
+tests
+.git
+.gitignore
+.dockerignore
+Dockerfile
+Jenkinsfile
+README.md
+*.log
+.env
+.env.*
+.DS_Store
